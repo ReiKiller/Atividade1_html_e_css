@@ -1,0 +1,11 @@
+aside{
+    width: 100px; height: 200px;
+    border: 2px solid rgb(255, 0, 0);
+    box-shadow: 7px 5px 18px black;
+    background-color: red;
+    padding: 20px;
+}
+
+aside p{
+   color: white;
+}
