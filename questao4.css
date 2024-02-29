@@ -1,0 +1,25 @@
+.imagem{
+    width: 600px; 
+    height: 600px;
+    border: 2px solid red;
+    border-radius: 12px;
+    padding: 20px;
+    background-image: url(https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSGBKBYGeMjejb1RCQ6RpRqTRlITiAFbnn0DZAFM-RyKAcF61EkcGZcXobDSdCYTi6BZFZoNCl8e8-RlEIe2PsWnqeaDZbPzOwUANLoC8wWrIzFj7d2QSD6&usqp=CAc);
+
+    background-size: cover;
+}
+
+.boxbranca{
+    width: 100px;
+    height: 100px;
+    border: 1px solid white;
+    background-color: black;
+}
+
+.boxblack{
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+    margin-top: 20px;
+    background-color: white;
+}
